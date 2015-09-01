@@ -1,30 +1,40 @@
-
-w_nodes":[
-     {
+{
+  "row_nodes": [
+    {
       "name": "ATF7",
       "clust": 67,
       "value": 0.691,
       "rank": 66,
-      "group": []
-      "cl": "1.0"
+      "group": [],
+      "cl": "cat-b"
     }
   ],
-  "col_nodes":[
+  "col_nodes": [
     {
       "name": "Col-0",
       "clust": 4,
       "value": 0.139,
       "rank": 10,
       "group": [],
-      "cl": "1.0"
+      "cl": "cat-a"
     }
   ],
-  "links":[
+  "links": [
     {
       "source": 0,
       "target": 0,
       "value": 0.023,
-      "highlight":0
+      "highlight": 0
     }
-  ]
+  ],
+  "row_class": {
+    "cat-a": {
+      "order": 0,
+      "color": "#000000"
+    },
+    "cat-b": {
+      "order": 0,
+      "color": "#000000"
+    }
+  }
 }
