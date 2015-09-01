@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
   "row_nodes": [
     {
-=======
-  "row_nodes":[
-     {
->>>>>>> 21b5a74af8ac99271c750997aa3c646568060010
       "name": "ATF7",
       "clust": 67,
       "value": 0.691,
