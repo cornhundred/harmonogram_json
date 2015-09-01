@@ -1,0 +1,30 @@
+
+w_nodes":[
+     {
+      "name": "ATF7",
+      "clust": 67,
+      "value": 0.691,
+      "rank": 66,
+      "group": []
+      "cl": "1.0"
+    }
+  ],
+  "col_nodes":[
+    {
+      "name": "Col-0",
+      "clust": 4,
+      "value": 0.139,
+      "rank": 10,
+      "group": [],
+      "cl": "1.0"
+    }
+  ],
+  "links":[
+    {
+      "source": 0,
+      "target": 0,
+      "value": 0.023,
+      "highlight":0
+    }
+  ]
+}
