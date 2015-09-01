@@ -6,7 +6,7 @@
       "value": 0.691,
       "rank": 66,
       "group": [],
-      "cl": "cat-b"
+      "cl": 0
     }
   ],
   "col_nodes": [
@@ -16,7 +16,7 @@
       "value": 0.139,
       "rank": 10,
       "group": [],
-      "cl": "cat-a"
+      "cl": 1
     }
   ],
   "links": [
@@ -27,14 +27,28 @@
       "highlight": 0
     }
   ],
-  "row_class": {
-    "cat-a": {
+  "row_class": [
+    {
+      "name": "some name",
       "order": 0,
       "color": "#000000"
     },
-    "cat-b": {
-      "order": 0,
+    {
+      "name": "some name 2",
+      "order": 1,
       "color": "#000000"
     }
-  }
+  ],
+  "col_class": [
+    {
+      "name": "some name",
+      "order": 0,
+      "color": "#000000"
+    },
+    {
+      "name": "some name 2",
+      "order": 1,
+      "color": "#000000"
+    }
+  ]
 }
